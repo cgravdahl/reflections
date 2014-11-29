@@ -1,0 +1,3 @@
+It creates a .git file to save commits. So we can save versions of our code.
+
+Staging area can show you what you plan to commit. It helps control what files you want commitied, what are tracked and which ones are not.
