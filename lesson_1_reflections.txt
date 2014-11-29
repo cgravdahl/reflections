@@ -1,0 +1,13 @@
+It showed all the changes quickly and showed where the mistake could've taken place
+
+To have a total history of all the projects and the versions of said projects will help you learn from where you went wrong and what you did before to solve an issure
+
+To control what you want to be changed and to not cause any confusion by it saving in the middle of a change.
+
+Google docs wasn't set up for coding
+
+By comparing two commits to find the changes in the file
+
+By being able to go back and see what lines makes the differences and being able to check and make changes on the fly
+
+Keep projects organized and to show off work
