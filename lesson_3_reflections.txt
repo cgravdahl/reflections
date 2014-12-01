@@ -1,3 +1,5 @@
 When contributing to a large project or when feedback is needed on a large project.
 
 So if there are any merge issues they can be fix without there being new files created. 
+
+Forks are for cloning repositories on git hub and linking back to the creator. Clone are copies either created locally or from git-hub. Branches are different versions of said repository. Forks are good for making your own version of a repository while the original files and owner can keep theirs intact. Clones are good for making an extra copy and branches are for trying new directions with said project. 
