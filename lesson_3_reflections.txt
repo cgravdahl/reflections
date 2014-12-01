@@ -1,1 +1,3 @@
 When contributing to a large project or when feedback is needed on a large project.
+
+So if there are any merge issues they can be fix without there being new files created. 
